@@ -1,0 +1,13 @@
+.main_wrapper {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.wrapper {
+  width: 20rem;
+}
+
+.wrapper img {
+  height: 5rem;
+}
